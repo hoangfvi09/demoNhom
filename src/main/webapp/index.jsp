@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  hảo lơ anh em. Lại là mừn đây
   </body>
 </html>

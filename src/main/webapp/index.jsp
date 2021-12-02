@@ -11,6 +11,10 @@
     <title>$Title$</title>
   </head>
   <body>
+<<<<<<< HEAD
   hoang vi viet cai nayhihi
+=======
+  hảo lơ anh em. Lại là mừn đây
+>>>>>>> anhdepzai
   </body>
 </html>
